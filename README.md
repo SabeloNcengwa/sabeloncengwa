@@ -57,12 +57,5 @@ Passionate and detail-oriented **Software Developer** with experience in **web, 
 
 ---
 
-### 💼 Projects
-
-- 🔗 [Portfolio Website](https://github.com/sabeloncengwa/portfolio)
-- 🔗 [Mock AI Interview System](https://github.com/sabeloncengwa/mock-ai-interview)
-- 🔗 [Graduate Survey Dashboard](https://github.com/sabeloncengwa/graduate-survey-powerbi)
-
----
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
